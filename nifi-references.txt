@@ -1,0 +1,15 @@
+https://community.hortonworks.com/questions/80211/from-csv-to-hive-via-nifi.html
+http://apache-nifi-developer-list.39713.n7.nabble.com/Example-of-GenerateTableFetch-td14374.html
+https://community.hortonworks.com/articles/77739/executescript-cookbook-part-1.html
+https://community.hortonworks.com/articles/75545/executescript-cookbook-part-2.html
+https://community.hortonworks.com/articles/77739/executescript-cookbook-part-3.html
+https://community.hortonworks.com/articles/64122/incrementally-streaming-rdbms-data-to-your-hadoop.html
+https://www.batchiq.com/database-ingest-with-nifi.html
+https://www.batchiq.com/database-extract-with-nifi.html
+https://community.hortonworks.com/articles/64122/incrementally-streaming-rdbms-data-to-your-hadoop.html
+https://community.hortonworks.com/questions/75767/how-to-configure-and-connect-mysql-with-nifi-and-p.html
+https://adamlamar.github.io/uploads/Monitor_S3_Bucket.xml
+https://github.com/hortonworks-gallery/nifi-templates/tree/master/templates
+https://github.com/hortonworks-gallery/nifi-templates
+https://www.dbiq.nl/nifi-puthivestreaming-with-cdh/
+http://funnifi.blogspot.ca/2016/02/executescript-processor-hello-world.html
