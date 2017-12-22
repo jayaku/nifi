@@ -20,3 +20,5 @@ https://community.hortonworks.com/questions/52328/how-to-insert-data-into-hive-u
 https://community.hortonworks.com/articles/45706/using-the-new-hiveql-processors-in-apache-nifi-070.html
 https://community.hortonworks.com/questions/46150/convertjsontosql-in-apache-nifi-for-sending-to-put.html
 http://apache-nifi.1125220.n5.nabble.com/PutHiveQL-Multiple-Ordered-Statements-td12303.html
+
+https://archive.org/details/github.com-youngwookim-awesome-hadoop_-_2017-02-24_01-02-49
