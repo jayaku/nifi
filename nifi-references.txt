@@ -13,3 +13,10 @@ https://github.com/hortonworks-gallery/nifi-templates/tree/master/templates
 https://github.com/hortonworks-gallery/nifi-templates
 https://www.dbiq.nl/nifi-puthivestreaming-with-cdh/
 http://funnifi.blogspot.ca/2016/02/executescript-processor-hello-world.html
+https://community.hortonworks.com/articles/52856/stream-data-into-hive-like-a-king-using-nifi.html
+https://community.hortonworks.com/questions/25228/can-i-use-nifi-to-replace-sqoop.html
+https://community.hortonworks.com/questions/1629/nifi-connection-to-mssql-server-db.html
+https://community.hortonworks.com/questions/52328/how-to-insert-data-into-hive-using-nifi.html
+https://community.hortonworks.com/articles/45706/using-the-new-hiveql-processors-in-apache-nifi-070.html
+https://community.hortonworks.com/questions/46150/convertjsontosql-in-apache-nifi-for-sending-to-put.html
+http://apache-nifi.1125220.n5.nabble.com/PutHiveQL-Multiple-Ordered-Statements-td12303.html
