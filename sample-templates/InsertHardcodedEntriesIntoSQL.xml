@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<template encoding-version="1.0">
+  <description></description>
+  <groupId>676770a7-0160-1000-1402-6222369d8529</groupId>
+  <name>InsertHardcodedEntriesIntoSQL</name>
+  <snippet>
+    <processors>
+      <id>89a51ff1-0160-1000-0000-000000000000</id>
+      <parentGroupId>676770a7-0160-1000-0000-000000000000</parentGroupId>
+      <position>
+        <x>0.0</x>
+        <y>0.0</y>
+      </position>
+      <config>
+        <bulletinLevel>WARN</bulletinLevel>
+        <comments></comments>
+        <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+        <descriptors>
+          <entry>
+            <key>Command</key>
+            <value>
+              <name>Command</name>
+            </value>
+          </entry>
+          <entry>
+            <key>Command Arguments</key>
+            <value>
+              <name>Command Arguments</name>
+            </value>
+          </entry>
+          <entry>
+            <key>Batch Duration</key>
+            <value>
+              <name>Batch Duration</name>
+            </value>
+          </entry>
+          <entry>
+            <key>Redirect Error Stream</key>
+            <value>
+              <name>Redirect Error Stream</name>
+            </value>
+          </entry>
+          <entry>
+            <key>Argument Delimiter</key>
+            <value>
+              <name>Argument Delimiter</name>
+            </value>
+          </entry>
+        </descriptors>
+        <executionNode>ALL</executionNode>
+        <lossTolerant>false</lossTolerant>
+        <penaltyDuration>30 sec</penaltyDuration>
+        <properties>
+          <entry>
+            <key>Command</key>
+            <value>C:\Projects\Rogers\omniture\nifi_omniture\nifi\EXECUTESCRIPT\InsertScript2.bat</value>
+          </entry>
+          <entry>
+            <key>Command Arguments</key>
+          </entry>
+          <entry>
+            <key>Batch Duration</key>
+          </entry>
+          <entry>
+            <key>Redirect Error Stream</key>
+            <value>false</value>
+          </entry>
+          <entry>
+            <key>Argument Delimiter</key>
+            <value> </value>
+          </entry>
+        </properties>
+        <runDurationMillis>0</runDurationMillis>
+        <schedulingPeriod>30 sec</schedulingPeriod>
+        <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+        <yieldDuration>1 sec</yieldDuration>
+      </config>
+      <name>ExecuteProcess</name>
+      <relationships>
+        <autoTerminate>true</autoTerminate>
+        <name>success</name>
+      </relationships>
+      <style></style>
+      <type>org.apache.nifi.processors.standard.ExecuteProcess</type>
+    </processors>
+  </snippet>
+  <timestamp>12/24/2017 13:54:16 EST</timestamp>
+</template>
