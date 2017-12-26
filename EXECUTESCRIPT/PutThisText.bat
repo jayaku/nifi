@@ -1,0 +1,1 @@
+echo I Love you da > C:\Projects\Rogers\omniture\nifi_omniture\nifi\OUTPUT\LookMaText.txt
